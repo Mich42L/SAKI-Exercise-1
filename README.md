@@ -1,1 +1,1 @@
-# SAKI-Ecercise
+# SAKI-Exercise
